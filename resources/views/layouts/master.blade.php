@@ -56,7 +56,7 @@
 
   @yield('content')
 
-  <footer class="footer"> © 2019 Pig Time - Projeto Integrador | Digital House </footer>
+  <footer class="footer text-center mt-5"> © 2019 Pig Time - Projeto Integrador | Digital House </footer>
         </div>
     </div>
     <script src="{{url('./admin/assets/plugins/jquery/jquery.min.js')}}"></script>
